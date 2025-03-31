@@ -51,6 +51,8 @@ Xu Yang, Chao Song, Jiqing Gu, Ke Li, Hongwei Li
 *Knowledge-Based Systems, 2023.*  
 [DOI:10.1016/J.KNOSYS.2023.110878](https://linkinghub.elsevier.com/retrieve/pii/S0950705123006287)
 
+张翀, 鲁力. 无线总线物联网边端体系—节点架构[J]. 中国计算机学会通讯（CCCF）2023, 6(11): 54-58
+
 #### Go Beyond RFID: Rethinking the Design of RFID Sensor Tags for Versatile Applications  
 Songfan Li, Qianhe Meng, Yanxu Bai, Chong Zhang, Yihang Song, Shengyu Li, Li Lu  
 *MOBICOM, 2023.*  
@@ -82,6 +84,8 @@ Yihang Song, Chao Song, Li Lu, Shen Yang, Songfan Li, Chong Zhang, Qianhe Meng, 
 *ACM Transactions on Sensor Networks,2022.*  
 [DOI:10.1145/3544492](https://dl.acm.org/doi/10.1145/3544492)  
 
+鲁力. 无线总线物联网边端系统[J]. 中国计算机学会通讯（CCCF）2022, 7(18): 57-62
+
 #### Cross-session Specific Emitter Identification using Adversarial Domain Adaptation with Wasserstein distance  
 Yalan Ye; Chunji Wang; Hai Dong; Li Lu; Qiang Zhao   
 *2022 26th International Conference on Pattern Recognition,2022.*  
@@ -101,11 +105,6 @@ Jiqing Gu, Chao Song, Zheng Ren, Li Lu, Wenjun Jiang, Ming Liu
 Yalan Ye, Tongjie Pan, Qianhe Meng, Jingjing Li, Li Lu   
 *IJCAI,2022.*  
 [DOI:10.24963/IJCAI.2022/509](https://www.ijcai.org/proceedings/2022/509)  
-
-#### BioTouch: Reliable Re-Authentication via Finger Bio-Capacitance and Touching Behavior  
-Chong Zhang, Songfan Li,Yihang Song, Qianhe Meng,Li Lu, Mengshu Hou   
-*Sensors,2022.*  
-[DOI:10.3390/S22093583](https://www.mdpi.com/1424-8220/22/9/3583)  
 
 #### Butterfly: μW Level ULP Sensor Nodes with High Task Throughput  
 Chong Zhang, Li Lu , Yihang Song, Qianhe Meng, Junqin Zhang, Xiandong Shao, Guangyuan Zhang, Mengshu Hou   
@@ -157,11 +156,6 @@ Wenwen He; Yalan Ye; Yunxia Li; Tongjie Pan; Li Lu
 李松璠, 鲁力, 李杰   
 *计算机学报,2021.*  
 [DOI:](https://pubscholar.cn/articles/eb5e62f08c0b88b9ca920a1f3e368a15de9b5dffa8acb39ebb792c969ac6a1f6b22f0517a6346678dba89a9ae4d35088)  
-
-#### TouchSense: Accurate and Transparent User Re-authentication via Finger Touching  
-Chong Zhang, Songfan Li, Yihang Song, Li Lu, Mengshu Hou   
-*International Conference on Edge Computing and IoT,2021.*  
-[DOI:10.1007/978-3-030-73429-9_7](https://link.springer.com/chapter/10.1007/978-3-030-73429-9_7)  
 
 ### 2020
 #### Internet-of-microchips: direct radio-to-bus communication with SPI backscatter  
